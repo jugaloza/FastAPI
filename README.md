@@ -10,3 +10,5 @@ Key features are :
   <li> Intuitive </li>
   <li> Easy to debug </li>
 </ol>
+
+This repository contains my work of  sample web APIs built in python using FastAPI 
